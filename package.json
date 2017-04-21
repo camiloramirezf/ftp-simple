@@ -1,0 +1,20 @@
+{
+  "name": "ftp-test",
+  "version": "1.0.0",
+  "description": "simple ftp server",
+  "main": "server.js",
+  "dependencies": {
+    "create-node-project": "^1.0.2",
+    "ftpd": "^0.2.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ftp"
+  ],
+  "author": "Camilo Ramirez",
+  "license": "ISC"
+}
